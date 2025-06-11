@@ -1,0 +1,8 @@
+ System Design Basic Block Diagram:
+[User Voice Command]
+        ↓
+[Android App with Speech Recognition]
+        ↓ via Bluetooth
+[Arduino/ESP32 Receives Command]
+        ↓
+[Turns ON/OFF Light/Fan (via relay/LED)]
