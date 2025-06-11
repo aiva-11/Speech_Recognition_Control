@@ -1,0 +1,18 @@
+          [User Voice Input]
+                   │
+                   ▼
+         [Microphone Module]
+                   │
+                   ▼
+   [Speech Recognition Module or Software]
+       (e.g., Elechouse V3, or Python with SpeechRecognition)
+                   │
+                   ▼
+       [Embedded Board (e.g., Arduino / Raspberry Pi)]
+                   │
+         ┌─────────┴─────────┐
+         ▼                   ▼
+ [Relay Module / GPIO]   [LCD / Serial Monitor]
+         │
+         ▼
+  [Home Appliance / LED / Fan]
